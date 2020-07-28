@@ -1,4 +1,4 @@
-"# mef2-wt-2018" 
+"# mef2-selexseq" 
 Scripts for the analyses of MEF2 data.
 
 1) For analysis of raw data, selex package is used as described in the manuscript
